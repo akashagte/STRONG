@@ -1,5 +1,5 @@
 # STRONG
-Developed this Path Tracking System as our Final Year Project. Acronym STRONG stands for "STability Relief for the Optically challeNGed"
+Developed a Path Tracking System for the Annual Maker Space Championship. Acronym STRONG stands for "STability Relief for the Optically challeNGed"
 
 1. Analysed field movements of visually impaired patients to identify activity patterns.
 2. Designed environment sensing, path tracking and signalling algorithm on Arduino IDE with C++.
